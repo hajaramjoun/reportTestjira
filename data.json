@@ -1,0 +1,11 @@
+{
+  "info" : {
+    "summary" : "Execution of automated tests hajar amjoun",
+    "description" : "This execution is automatically new hajar"
+  },
+  "tests" : [ {
+    "testKey" : "POEI22-686",
+    "comment" : "Successful execution Hajar Amjoun new hajar",
+    "status" : "FAILED"
+  } ]
+}
