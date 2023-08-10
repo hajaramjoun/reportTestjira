@@ -6,6 +6,6 @@
   "tests" : [ {
     "testKey" : "POEI22-686",
     "comment" : "Successful execution Hajar Amjoun new hajar",
-    "status" : "FAILED"
+    "status" : "PASSED"
   } ]
 }
